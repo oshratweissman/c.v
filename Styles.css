@@ -152,6 +152,7 @@ left:54%;
    display: inline-block;
    cursor: pointer;
    text-align: center;
+   margin:auto;
 }
 .BUTTON_PYB:hover {
    border: solid #000000 0;
